@@ -1,3 +1,7 @@
+## 0.4.13
+
+* Fix latest `dart2js` and `dart2wasm` failing to compile due to invalid method signatures detected (@sleepysquash).
+
 ## 0.4.12
 
 * Bump package:web version to `>=0.5.1 <2.0.0` (@ali2236)
