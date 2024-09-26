@@ -1,6 +1,6 @@
 ## 0.4.13
 
-* Fix latest `dart2js` and `dart2wasm` failing to compile due to invalid method signatures detected (@sleepysquash).
+* Fix `dart2js`/`dart2wasm` compile error with Flutter 3.26.0 (@SleepySquash).
 
 ## 0.4.12
 
